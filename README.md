@@ -1,11 +1,16 @@
-# JavaScript Intro to Functions Lab
+le# JavaScript Intro to Functions Lab
 
 ## Objectives
 
 - Practice writing functions
 - Explain basics of working with strings
-- Explain the difference between `return` and logging
-- Practice using `return` and `console.log()`
+- Explain the differejavascript
+global.expect = require('expect');
+
+const babel = require('babel-core');
+const jsdom = require('jsdom');
+const path = require('path');nce between `return` and logging
+- Practicae using `return` and `console.log()`
 
 ## Introduction
 
